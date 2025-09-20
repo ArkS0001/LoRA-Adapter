@@ -1,8 +1,7 @@
 # LoRA-Adapter
 ![1758204246182](https://github.com/user-attachments/assets/b8fa380d-5641-4987-bf21-5efe875a61db)
+<img width="1536" height="1024" alt="a98b5dc6-ef54-4f87-bf30-6ee7260618aa" src="https://github.com/user-attachments/assets/65dfd965-55b4-4d9b-a841-76a4f6494b5f" />
 
-Perfect 👍 — let’s make this **provider-neutral** so you can use it for **OpenAI, xAI, Anthropic, or any API-based LLM provider**.
-Here’s a cleaned-up, **README-ready explanation with flowcharts and pipeline** (no Groq-specific details):
 
 ---
 
